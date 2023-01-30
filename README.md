@@ -1,6 +1,6 @@
 # Credit Risk Scoring for an Online Lending Company
 
-[![Esta es una imagen](/01_Documents/00_Images/webapp2.png)](https://03-notebooks03-systemapp-risk-scoring-deploymentapp-ri-cv1jfo.streamlitapp.com/)
+[![Image 1](/01_Documents/00_Images/webapp2.png)](https://03-notebooks03-systemapp-risk-scoring-deploymentapp-ri-cv1jfo.streamlitapp.com/)
 
 - [Introduction](#introduction)
 - [Objectives](#objectives)
@@ -36,7 +36,7 @@ Finally, in order to get the most value out of the developed machine learning mo
 
 [**Launch Credit Risk Analyzer Web App!**](https://03-notebooks03-systemapp-risk-scoring-deploymentapp-ri-cv1jfo.streamlitapp.com/)
 
-[![Esta es una imagen](/01_Documents/00_Images/webapp1.png)](https://03-notebooks03-systemapp-risk-scoring-deploymentapp-ri-cv1jfo.streamlitapp.com/)
+[![Image 2](/01_Documents/00_Images/webapp1.png)](https://03-notebooks03-systemapp-risk-scoring-deploymentapp-ri-cv1jfo.streamlitapp.com/)
 
 ### Business Insights derived from exploratory data analysis <a name="business-insights"></a>
 #### Borrowers:
