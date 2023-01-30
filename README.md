@@ -1,4 +1,4 @@
-# Credit risk scoring for an online lending company
+# Credit Risk Scoring for an Online Lending Company
 
 [![Esta es una imagen](/01_Documents/00_Images/webapp2.png)](https://03-notebooks03-systemapp-risk-scoring-deploymentapp-ri-cv1jfo.streamlitapp.com/)
 
